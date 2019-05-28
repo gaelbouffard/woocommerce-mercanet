@@ -232,7 +232,7 @@ class WC_Gateway_Mercanet extends WC_Payment_Gateway {
       </form>
 </div>
 </div>
-    <?
+    <?php
         } else {
             // XXX Affichage commande validée
         }
